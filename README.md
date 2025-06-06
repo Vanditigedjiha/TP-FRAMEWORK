@@ -1,8 +1,17 @@
 # TP-FRAMEWORK - Suivi de Dépenses
 
-Ce projet est une application complète de **suivi de dépenses** composée de deux parties distinctes :
+## 👥 Membres du Groupe 2
+
+- **VANDI TIGE DJIHA**
+- **AICHATOU MALAM**
+- **ABDOUL-AZIZ BEN**
+- **ANIASSING SAVANT**
+
+---
 
 ## 🔧 Backend - API REST avec Spring Boot
+
+Ce projet est une application de **suivi de dépenses**, centrée sur le développement backend avec Spring Boot.
 
 Le backend est une **API REST** développée avec **Spring Boot**.  
 Il permet de gérer les opérations suivantes :
@@ -14,25 +23,12 @@ Il permet de gérer les opérations suivantes :
 ### 📁 Structure backend
 Le code source du backend se trouve dans le dossier : `expensetracker/`
 
-## 🌐 Frontend - Application React JS
-
-L’interface utilisateur est réalisée avec **React JS**.  
-Elle permet :
-
-- D’afficher la liste des dépenses
-- D’ajouter, filtrer, et supprimer des dépenses
-- D’obtenir un résumé des dépenses
-
-### 📁 Structure frontend
-Le code source du frontend est situé dans le dossier : `suivi-depenses/`
-
 ---
 
 ## 📦 Technologies utilisées
 
 - **Spring Boot** (API REST)
 - **MySQL** (Base de données)
-- **React JS** (Frontend)
 - **Maven** (Gestionnaire de dépendances)
 - **Git & GitHub** (Contrôle de version)
 
@@ -40,12 +36,8 @@ Le code source du frontend est situé dans le dossier : `suivi-depenses/`
 
 ## 🚀 Lancement du projet
 
-### Backend
+### Démarrer le backend
 
 ```bash
 cd expensetracker
 ./mvnw spring-boot:run
-FRONT
-cd suivi-depenses
-npm install
-npm start
