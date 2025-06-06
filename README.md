@@ -21,7 +21,7 @@ Il permet de gérer les opérations suivantes :
 - Connexion avec une base de données **MySQL**
 
 ### 📁 Structure backend
-Le code source du backend se trouve dans le dossier : `expensetracker/`
+Le code source du backend se trouve dans le dossier : `API-SpringBoot/backend/`
 
 ---
 
@@ -39,5 +39,5 @@ Le code source du backend se trouve dans le dossier : `expensetracker/`
 ### Démarrer le backend
 
 ```bash
-cd expensetracker
+cd API-SpringBoot/backend
 ./mvnw spring-boot:run
