@@ -1,6 +1,6 @@
 # TP-FRAMEWORK - Suivi de Dépenses
 
-## 👥 Membres du Groupe 2
+## 👥 Membres du Groupe 6
 
 - **VANDI TIGE DJIHA**
 - **AICHATOU MALAM**
